@@ -1,5 +1,5 @@
-export const MetaData = {
-    title:'About Codevolution ',
+export const metadata = {
+    title:'About Codevolution',
 }
 
 export default function About() {
